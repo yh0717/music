@@ -3,7 +3,7 @@
     <div class="footer_content content-width">
       <span>MUSIC FREE</span>
       <div class="link">
-        <a href="https://github.com/"><span><i class="iconfont icon-github"></i>Github</span></a>
+        <a href="https://github.com/yh0717/music"><span><i class="iconfont icon-github"></i>Github</span></a>
         <a href="https://music.163.com/"><span><i class="iconfont icon-wangyiyunyinle wyy"></i>网易云音乐</span></a>
       </div>
     </div>
